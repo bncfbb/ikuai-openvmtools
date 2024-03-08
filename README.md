@@ -14,4 +14,15 @@
 
 ## 如何使用
 
+拉取镜像
 ![Image text](https://github.com/bncfbb/ikuai-openvmtools/blob/master/img/1.jpg)
+![Image text](https://github.com/bncfbb/ikuai-openvmtools/blob/master/img/2.jpg)
+创建容器，勾选开机自启
+![Image text](https://github.com/bncfbb/ikuai-openvmtools/blob/master/img/3.jpg)
+![Image text](https://github.com/bncfbb/ikuai-openvmtools/blob/master/img/4.jpg)
+PORT环境变量可以省略，如果爱快端口不是80的话需要添加PORT环境变量并填写实际端口
+![Image text](https://github.com/bncfbb/ikuai-openvmtools/blob/master/img/5.jpg)
+![Image text](https://github.com/bncfbb/ikuai-openvmtools/blob/master/img/6.jpg)
+在ESXi上点击关机来测试效果
+![Image text](https://github.com/bncfbb/ikuai-openvmtools/blob/master/img/7.jpg)
+如果出现问题可以查看容器日志排查故障

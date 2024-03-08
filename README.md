@@ -11,3 +11,7 @@
 | PORT | 80|爱快端口号|
 | USERNAME | admin | 爱快用户名
 | PASSWORD | admin | 爱快密码
+
+## 如何使用
+
+![Image text](https://github.com/bncfbb/ikuai-openvmtools/blob/master/img/1.jpg)
